@@ -1,9 +1,8 @@
-### Hi there, I'm  - [Pratik Kumar Yadav][website] 👋
+### Hi there, I'm  - [Pratik Kumar Yadav](https://pratikyadav33.github.io/Resume/) 👋
 
 [![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fpratikyadav33.github.io/Resume)](https://pratikyadav33.github.io/Resume/)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=pratikyadav33)                          
-[![Linkedin Badge](https://img.shields.io/badge/Pratik-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/pratikyadav33)](https://www.linkedin.com/in/pratikyadav33)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=pratikyadav33)                          [![Linkedin Badge](https://img.shields.io/badge/Pratik-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/pratikyadav33)](https://www.linkedin.com/in/pratikyadav33)
 
 ## I'm a Student, Developer and Engineer!!
 
